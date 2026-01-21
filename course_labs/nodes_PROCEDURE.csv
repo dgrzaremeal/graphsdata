@@ -1,0 +1,4 @@
+uid;name;source;span
+"PROCEDURE:::DB2CBL:::DB2CBL";"DB2CBL";"/jclproc/DB2CBL.jcl";"0:29"
+"PROCEDURE:::DSNUPROC:::DSNUPROC";"DSNUPROC";"/jclproc/DSNUPROC.jcl";"0:50"
+"PROCEDURE:::DB2JCL:::DB2JCL";"DB2JCL";"/jclproc/DB2JCL.jcl";"0:89"
