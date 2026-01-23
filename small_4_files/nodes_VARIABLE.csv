@@ -40,6 +40,7 @@ uid;name;source;span;code
 "VARIABLE:::CBCUS01CFAKE:::TWO-BYTES-BINARY";"TWO-BYTES-BINARY";"/CBCUS01CFAKE.cbl";"2547:2598";"       01  TWO-BYTES-BINARY        PIC 9(4) BINARY."
 "VARIABLE:::CBCUS01CFAKE:::TWO-BYTES-LEFT";"TWO-BYTES-LEFT";"/CBCUS01CFAKE.cbl";"2662:2703";"           05  TWO-BYTES-LEFT      PIC X."
 "VARIABLE:::CBCUS01CFAKE:::TWO-BYTES-RIGHT";"TWO-BYTES-RIGHT";"/CBCUS01CFAKE.cbl";"2704:2745";"           05  TWO-BYTES-RIGHT     PIC X."
+"VARIABLE:::CVCUS01YFAKE:::CUSTOMER-RECORD2";"CUSTOMER-RECORD2";"/CVCUS01YFAKE.cpy";"0:230";"                                                                       \n                                                         \n                                                                       \n       01  CUSTOMER-RECORD2."
 "VARIABLE:::CBCUS01C:::ABCODE";"ABCODE";"/CBCUS01C.cbl";"3070:3122";"       01  ABCODE                  PIC S9(9) BINARY."
 "VARIABLE:::CBCUS01C:::APPL-AOK";"APPL-AOK";"/CBCUS01C.cbl";"2921:2964";"           88  APPL-AOK            VALUE 0."
 "VARIABLE:::CBCUS01C:::APPL-EOF";"APPL-EOF";"/CBCUS01C.cbl";"2965:3009";"           88  APPL-EOF            VALUE 16."
@@ -80,4 +81,3 @@ uid;name;source;span;code
 "VARIABLE:::CVCUS01YFAKE:::CUST-PHONE-NUM-2";"CUST-PHONE-NUM-2";"/CVCUS01YFAKE.cpy";"966:1031";"           05  CUST-PHONE-NUM-2                        PIC X(15)."
 "VARIABLE:::CVCUS01YFAKE:::CUST-PRI-CARD-HOLDER-IND";"CUST-PRI-CARD-HOLDER-IND";"/CVCUS01YFAKE.cpy";"1296:1361";"           05  CUST-PRI-CARD-HOLDER-IND                PIC X(01)."
 "VARIABLE:::CVCUS01YFAKE:::CUST-SSN";"CUST-SSN";"/CVCUS01YFAKE.cpy";"1032:1097";"           05  CUST-SSN                                PIC 9(09)."
-"VARIABLE:::CVCUS01YFAKE:::CUSTOMER-RECORD2";"CUSTOMER-RECORD2";"/CVCUS01YFAKE.cpy";"0:230";"                                                                       \n                                                         \n                                                                       \n       01  CUSTOMER-RECORD2."
