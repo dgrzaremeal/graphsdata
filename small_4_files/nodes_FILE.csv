@@ -1,3 +1,2 @@
-uid;name;source;span
-"FILE:::CUSTFILE:::CUSTFILE";"CUSTFILE";"/CBCUS01C.cbl";"0:0"
-"FILE:::CUSTFILE:::CUSTFILE";"CUSTFILE";"/CBCUS01CFAKE.cbl";"0:0"
+uid;name;span
+"FILE:::CUSTFILE:::CUSTFILE";"CUSTFILE";"0:0"
