@@ -1,4 +1,4 @@
-uid;name;source;span
-"PROCEDURE:::DSNUPROC:::DSNUPROC";"DSNUPROC";"/jclproc/DSNUPROC.jcl";"0:50"
-"PROCEDURE:::DB2CBL:::DB2CBL";"DB2CBL";"/jclproc/DB2CBL.jcl";"0:29"
-"PROCEDURE:::DB2JCL:::DB2JCL";"DB2JCL";"/jclproc/DB2JCL.jcl";"0:89"
+uid;name;span;source
+"PROCEDURE:::DSNUPROC:::DSNUPROC";"DSNUPROC";"0:50";"/jclproc/DSNUPROC.jcl"
+"PROCEDURE:::DB2CBL:::DB2CBL";"DB2CBL";"0:29";"/jclproc/DB2CBL.jcl"
+"PROCEDURE:::DB2JCL:::DB2JCL";"DB2JCL";"0:89";"/jclproc/DB2JCL.jcl"
